@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Anas Almahlafi 👋
 
-<!--
-**An9978as/An9978as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Graduate | University of Bisha
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence graduate interested in building practical AI and machine learning solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Data Analysis
+- Pandas & NumPy
+- Scikit-learn
+- Git & GitHub
+
+## 🚀 Projects
+
+- Customer Churn Prediction
+- Sentiment Analysis using NLP
+- Sonar Signal Classification
+- Health Insurance Premium Prediction
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- AI Engineering
+- Python Programming
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/anas-ali-927ab4373/)
